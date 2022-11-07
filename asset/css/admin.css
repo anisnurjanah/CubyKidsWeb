@@ -1,0 +1,11 @@
+*body {
+}
+.card{
+	box-shadow: 0 9px 30px rgba(0,0,0,0.6);
+	border-radius: 20px;
+}
+.container{
+	padding: 10%;
+	height: 50%;
+	width: 50%;
+}
